@@ -58,8 +58,8 @@
 
 //        console.table(task)
 
-let hoje = new Date()
-console.log(hoje)
+// let hoje = new Date()
+// console.log(hoje)
 
-let amanhã = new Date("03-18-2026")
-console.log(amanhã)
+// let amanhã = new Date("03-18-2026")
+// console.log(amanhã)
