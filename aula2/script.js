@@ -1,5 +1,5 @@
 // -- Operador Ternário --
-let idade = 17
+//let idade = 17
 
 let status = idade >= 18 ? "Maior de idade" : "Menor de idade" 
 // ? é tipo um if (sucesso da condição), 
